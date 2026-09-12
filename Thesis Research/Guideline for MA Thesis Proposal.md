@@ -9,7 +9,7 @@ A brief summary of your research project (0.5 to 1 page).
 proposal. It is probably the only part that will be read in the first selection round. Be clear
 and concise and make sure that readers immediately grasp the relevance of your project.
 
-State of the art
+State of the art:
 
 Provide an overview of relevant literature and discuss how it is linked to your research
 proposal. Think of structuring it along particularly prominent topics and clearly point out
