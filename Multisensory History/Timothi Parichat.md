@@ -1,0 +1,12 @@
+Talks about the importance of positionality of the researcher while conducting a research that determines the degree and quality of insight. If I were to interpret the political of the political ethnography, from his article, I would focus on the levels in the labour ladder that he was placed, which shaped his understanding of the politics of division of labour, power, control and visibility of violence. If it were not for the his experience as both the clean and the dirty worker, he would probably miss out the graded hierarchy that the slaughterhouse subaltern inhabits. He himself is talking about the importance of this insider perspective , as he registered the difference in access to information / insight that changes as one moves up in the workforce hierarchy.
+
+"The second definition of the political in political ethnography, however, acknowledges that partiality is the starting pomt, the sohd ground to thrust our feet against and cast off from, the foothold that enables the work of the imagination that makes sustained, empathic inquiry possible. Working as an entry-level worker in the cooler and chutes of the slaughterhouse did not mystically make me one with the subjugated, any more than my promotion to quality control automatically transformed me ~nto an oppressor. My active participation in these roles did, however, provide the partiality that gave me the power to see, the power to make possible sustained, engaged, and situated dialogue with those worlds."
+
+On the three dilemmas of field work 
+Native or foreigner
+Some kind of team member?
+Unintended impressions
+
+The author has included the arguments of other anthropologists on the debate, however have also incorporated her own experience to deconstruct or reconstruct the arguments by these scholars. 
+
+Talking about her fieldwork in Turkey during 2016, Sezer reflects on her interactions with her respondents where she would  become an object of enquiry and research , by her respondents, and sheds light on the two way nature of anthropological interaction. How much of a respondent is willing to give away is dependent on their perception of you. This is the space where the researcher has to perform to cement a self image that has the capacity to transform them from aliens to allies (or vice versa). 
