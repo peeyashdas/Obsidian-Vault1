@@ -5,7 +5,7 @@ proposal should contain the following elements.
 
 A brief summary of your research project (0.5 to 1 page).
 
-Note that when applying for funds, the summary is one of the most important parts of your
+[^2]Note that when applying for funds, the summary is one of the most important parts of your
 proposal. It is probably the only part that will be read in the first selection round. Be clear
 and concise and make sure that readers immediately grasp the relevance of your project.
 
@@ -126,4 +126,8 @@ first page of your text.
 Citation
  
 Chicago Manual of Style (henceforth CMOS) 17th ed. The most common types of footnote are listed over the page.
+[^1]
 
+[^1]: This can become citation if needed
+
+[^2]: From my brain
