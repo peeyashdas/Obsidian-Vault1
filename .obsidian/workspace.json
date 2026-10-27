@@ -197,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,16 +214,16 @@
   },
   "active": "7c926b097502a6c4",
   "lastOpenFiles": [
-    "Multisensory History/Timothi Parichat.md",
-    "Cultural Theories.md",
-    "Multisensory History/Archive Fever - A Freudian Impression.md",
-    "Untitled.canvas",
-    "Multisensory History/Along the Archival Grain - Ann Laura Stoler.md",
-    "European Intellectual History since Nietzsche.md",
-    "Thesis Research/Guideline for MA Thesis Proposal.md",
     "Multisensory History/Can the Subaltern Speak.md",
     "Multisensory History/NOTES.md",
+    "Multisensory History/Along the Archival Grain - Ann Laura Stoler.md",
     "Conversion Narratives/Krupabai Satthianadhan.md",
+    "Cultural Theories.md",
+    "Multisensory History/Timothi Parichat.md",
+    "Multisensory History/Archive Fever - A Freudian Impression.md",
+    "Untitled.canvas",
+    "European Intellectual History since Nietzsche.md",
+    "Thesis Research/Guideline for MA Thesis Proposal.md",
     "Untitled.base",
     "Multisensory History/Rafai Faqirs - Ann Laura Stoler.md",
     "Multisensory History/Nerlekar & Orsini (2022), Balachandran (2022).md",
